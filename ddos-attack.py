@@ -20,10 +20,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : Tech Tushar"
-print "You Tube : https://www.youtube.com/c/TechTushar"
-print "github   : https://github.com/Techtushar07"
-print "Facebook : https://www.facebook.com/daveratushar/"
+print "Author   : Havyr"
+print "github   : https://github.com/Havy59rus"
+print "Vk : https://vk.com/sleyttern"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
